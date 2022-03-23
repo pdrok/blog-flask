@@ -1,14 +1,17 @@
 ## Powershell
 
-> $env:FLASK_APP = "hello"
-> flask run
+` $env:FLASK_APP = "flaskr"`
+
+` flask run`
 
 ## Cmd
 
-> set FLASK_APP=hello
-> flask run
+`set FLASK_APP=flaskr`
+
+`flask run`
 
 ## Bash
 
-$ export FLASK_APP=hello
-$ flask run
+`$ export FLASK_APP=flaskr`
+
+`$ flask run`

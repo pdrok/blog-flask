@@ -15,3 +15,7 @@
 `$ export FLASK_APP=flaskr`
 
 `$ flask run`
+
+## Run test:
+
+`python -m pytest`
